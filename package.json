@@ -1,0 +1,19 @@
+{
+  "name": "meal-prep",
+  "version": "1.0.0",
+  "description": "to save money on food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveCho92/meal-prep.git"
+  },
+  "author": "Steve Cho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveCho92/meal-prep/issues"
+  },
+  "homepage": "https://github.com/SteveCho92/meal-prep#readme"
+}
